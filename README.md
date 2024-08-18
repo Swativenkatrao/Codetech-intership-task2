@@ -34,4 +34,4 @@ It features different user roles (librarian and patron) and ensures data persist
 
 ![Screenshot 2024-08-18 154219](https://github.com/user-attachments/assets/1e782ab9-a7ae-4ee6-8897-eeb9cf2e9d08)
 
-  
+  Acknowledgments: - Special thanks to Muzammil Ahmed sir for guidance and support.
